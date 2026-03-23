@@ -15,11 +15,7 @@ function StudentList(){
         <tbody>
         <Student name="teststu1" age={25} totMarks={900}/>
         <Student name="teststu2" age={30} totMarks={800}/>
-<<<<<<< HEAD
         <Student name="teststu3" age={28} totMarks={3}/>
-=======
-        <Student name="teststu3" age={28} totMarks={100}/>
->>>>>>> 324a8cecc31587504bfb57b4847831d62c93d365
         </tbody>
       </table>
     </div>
